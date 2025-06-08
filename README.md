@@ -7,13 +7,13 @@
 
 - 🔭 I’m currently working on **Ed-Tech project**
 
-- 🤝 I’m a computer science student **B.Tech(3rd) at UIET,Kanpur.**
+- 🤝 I completed my Bachelor's Degree in Computer Science and Engineering from UIET Kanpur.**
 
 - 💬 Ask me about **DSA,C++,JS,REACT,**
 
 - 📫 How to reach me **mauryaadarsh255@gmail.com**
 
--  Knight at LeetCode
+-  Knight@LeetCode
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
